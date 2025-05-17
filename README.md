@@ -69,9 +69,7 @@ These documents provide in-depth explanation of the system design, functionality
 
 ## 👨‍💻 Author
 
-- **Full Name**: [Your Full Name]
-- **Student ID**: 20222163  
-- **University ID**: W1985734  
+- **Full Name**: M Shakinya 
 
 > Replace `[Your Full Name]` with your actual name before uploading to GitHub.
 
