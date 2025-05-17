@@ -71,8 +71,6 @@ These documents provide in-depth explanation of the system design, functionality
 
 - **Full Name**: M Shakinya 
 
-> Replace `[Your Full Name]` with your actual name before uploading to GitHub.
-
 ---
 
 ## 📜 License
